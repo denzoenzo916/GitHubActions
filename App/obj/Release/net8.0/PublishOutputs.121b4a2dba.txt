@@ -1,0 +1,5 @@
+C:\Temp\Git\dotnetDemo\app\bin\Release\net8.0\publish\HellowWorld.exe
+C:\Temp\Git\dotnetDemo\app\bin\Release\net8.0\publish\HellowWorld.dll
+C:\Temp\Git\dotnetDemo\app\bin\Release\net8.0\publish\HellowWorld.deps.json
+C:\Temp\Git\dotnetDemo\app\bin\Release\net8.0\publish\HellowWorld.runtimeconfig.json
+C:\Temp\Git\dotnetDemo\app\bin\Release\net8.0\publish\HellowWorld.pdb

@@ -1,0 +1,14 @@
+C:\Temp\Git\dotnetDemo\app\bin\Debug\net8.0\HellowWorld.exe
+C:\Temp\Git\dotnetDemo\app\bin\Debug\net8.0\HellowWorld.deps.json
+C:\Temp\Git\dotnetDemo\app\bin\Debug\net8.0\HellowWorld.runtimeconfig.json
+C:\Temp\Git\dotnetDemo\app\bin\Debug\net8.0\HellowWorld.dll
+C:\Temp\Git\dotnetDemo\app\bin\Debug\net8.0\HellowWorld.pdb
+C:\Temp\Git\dotnetDemo\app\obj\Debug\net8.0\HellowWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Git\dotnetDemo\app\obj\Debug\net8.0\HellowWorld.AssemblyInfoInputs.cache
+C:\Temp\Git\dotnetDemo\app\obj\Debug\net8.0\HellowWorld.AssemblyInfo.cs
+C:\Temp\Git\dotnetDemo\app\obj\Debug\net8.0\HellowWorld.csproj.CoreCompileInputs.cache
+C:\Temp\Git\dotnetDemo\app\obj\Debug\net8.0\HellowWorld.dll
+C:\Temp\Git\dotnetDemo\app\obj\Debug\net8.0\refint\HellowWorld.dll
+C:\Temp\Git\dotnetDemo\app\obj\Debug\net8.0\HellowWorld.pdb
+C:\Temp\Git\dotnetDemo\app\obj\Debug\net8.0\HellowWorld.genruntimeconfig.cache
+C:\Temp\Git\dotnetDemo\app\obj\Debug\net8.0\ref\HellowWorld.dll
